@@ -1,0 +1,26 @@
+{
+    "conditions": [
+      {
+        "name": "Thyroid",
+        "symptoms": ["Fatiga", "Aumento de peso", "Depresión"],
+        "prevention": ["Evitar el estrés", "Consumir yodo adecuado"],
+        "treatment": "Terapia hormonal",
+        "imagesrc": "thyroid.jpg"
+      },
+      {
+        "name": "Diabetes",
+        "symptoms": ["Sed excesiva", "Pérdida de peso", "Visión borrosa"],
+        "prevention": ["Ejercicio regular", "Dieta saludable"],
+        "treatment": "Insulina, cambios de estilo de vida",
+        "imagesrc": "diabetes.jpg"
+      },
+      {
+        "name": "High Blood Pressure",
+        "symptoms": ["Dolor de cabeza", "Mareos", "Sangrado nasal"],
+        "prevention": ["Reducción de sal", "Evitar alcohol", "Ejercicio"],
+        "treatment": "Medicamentos antihipertensivos",
+        "imagesrc": "pressure.jpg"
+      }
+    ]
+  }
+  
